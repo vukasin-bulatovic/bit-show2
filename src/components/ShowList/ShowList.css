@@ -1,0 +1,22 @@
+.showList {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.show {
+  width: 24%;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  position: relative;
+}
+.zuta {
+  background-color: yellow;
+}
+.bela {
+  background-color: white;
+}
+img {
+  width: 100%;
+}

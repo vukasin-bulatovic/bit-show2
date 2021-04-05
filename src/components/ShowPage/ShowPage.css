@@ -1,0 +1,12 @@
+.showImage {
+  width: 20%;
+}
+.show1 {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 2px solid grey;
+  padding: 30px 0;
+}
+.showInfo {
+  width: 40%;
+}

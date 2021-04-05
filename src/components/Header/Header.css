@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  background-color: #2278cf;
+  padding: 5px 30px;
+  color: white;
+  text-align: start;
+}

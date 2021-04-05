@@ -1,0 +1,11 @@
+.genres {
+  display: flex;
+}
+
+.genre {
+  background-color: #eee;
+  padding: 7px;
+  color: black;
+  border-radius: 30px;
+  margin-right: 5px;
+}

@@ -1,0 +1,48 @@
+.castContainer {
+  width: 100%;
+  padding: 30px 0;
+}
+.cast {
+  width: 100%;
+  display: flex;
+}
+.actor {
+  width: 100px;
+  position: relative;
+}
+.actor img {
+  width: 100%;
+}
+.actor p {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  color: white;
+}
+.switch {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.castGrid {
+  padding: 10px 10px;
+  width: 100%;
+}
+.castGrid img {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+.castGrid .actor {
+  display: flex;
+  position: unset;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 2px solid grey;
+  width: 100%;
+}
+.castGrid p {
+  color: black;
+  position: unset;
+  margin-left: 20px;
+}
